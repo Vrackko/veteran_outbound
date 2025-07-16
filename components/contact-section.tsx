@@ -128,7 +128,7 @@ export default function ContactSection() {
                 data-aos="fade-up" 
                 data-aos-delay={200}
               >
-                Ready to get started? Get in touch with our team.
+                Ready to scale your outreach? Let's discuss your lead generation goals.
               </p>
             </div>
 

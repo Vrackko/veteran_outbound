@@ -22,7 +22,7 @@ export default function HeroHome() {
               className="animate-[gradient_6s_linear_infinite] bg-[linear-gradient(to_right,var(--color-gray-200),var(--color-indigo-200),var(--color-gray-50),var(--color-indigo-300),var(--color-gray-200))] bg-[length:200%_auto] bg-clip-text pb-5 font-nacelle text-4xl font-semibold text-transparent md:text-5xl"
               data-aos="fade-up"
             >
-              AI-driven tools for product teams
+              Scale Your Business with Cold Email Outreach
             </h1>
             <div className="mx-auto max-w-3xl">
               <p
@@ -30,8 +30,7 @@ export default function HeroHome() {
                 data-aos="fade-up"
                 data-aos-delay={200}
               >
-                Our landing page template works on all devices, so you only have
-                to set it up once, and get beautiful results forever.
+                We help businesses generate qualified leads through strategic cold email campaigns that convert prospects into paying customers.
               </p>
               <div className="mx-auto max-w-xs">
                 <div data-aos="fade-up" data-aos-delay={400}>

@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Home - Veteran Outbound",
-  description: "Veteran outbound services and support",
+  title: "Veteran Outbound - Cold Email Marketing Agency for Business Growth",
+  description: "We help businesses generate qualified leads through strategic cold email campaigns that convert prospects into paying customers.",
 };
 
 import PageIllustration from "@/components/page-illustration";

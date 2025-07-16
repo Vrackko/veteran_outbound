@@ -99,7 +99,7 @@ export default function ContactSection() {
   };
 
   return (
-    <section className="relative overflow-hidden">
+    <section id="contact-section" className="relative overflow-hidden">
       <div
         className="pointer-events-none absolute bottom-0 left-1/2 -z-10 -mb-24 ml-20 -translate-x-1/2"
         aria-hidden="true"

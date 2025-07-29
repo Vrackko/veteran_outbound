@@ -9,13 +9,15 @@ import Features from "@/components/features";
 import Testimonials from "@/components/testimonials";
 import ContactSection from "@/components/contact-section";
 
+
+// Testimonials /> - ovo dodaj kad budes htio testimonials
 export default function Home() {
   return (
     <>
       <PageIllustration />
       <Hero />
       <Features />
-      <Testimonials />
+      
       <ContactSection />
     </>
   );
